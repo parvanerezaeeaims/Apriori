@@ -1,5 +1,4 @@
 
-readme_content = """
 ![Dashboard Sample](./Dashboard_Sample.png)
 
 # FMCG Recommendation System using Apriori Algorithm
