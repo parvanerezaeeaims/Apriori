@@ -24,17 +24,6 @@ Execute the app script to generate association rules:
 
 View Results: The results, including frequent itemsets and association rules, will be outputted to the console or saved to a results file if configured.
 
-Example Results
-Here is a sample of what the output might look like:
-
-diff
-Copy code
-آب آلبالو  250 cc, شیر 250 cc ----------> آب پرتقال 250 cc
-support: 0.20453841246696436
-confidence: 0.773184511506132
-lift: 1.2899601105999818
-
-
 Project Structure
 bash
 Copy code
