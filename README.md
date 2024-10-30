@@ -1,4 +1,3 @@
-# Creating the README.md file with the provided markdown content.
 
 readme_content = """
 ![Dashboard Sample](./Dashboard_Sample.png)
@@ -18,7 +17,7 @@ This project is a recommendation system for Fast-Moving Consumer Goods (FMCG), b
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/parvanerezaeepm/Apriori.git
+   git clone https://github.com/parvanerezaeeaims/Apriori.git
 
 
 
